@@ -40,7 +40,7 @@ Get hotels' info about each destination
 Store all the information above in a data lake
 Extract, transform and load cleaned data from your datalake to a data warehouse
 
-#### Result 
+### Let's explore now the results 🤠🤩🥳 📁
 
 Here's the result for period between : 2022-09-29 and 2022-10-05
 
