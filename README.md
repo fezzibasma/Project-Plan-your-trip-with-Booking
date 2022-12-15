@@ -5,6 +5,13 @@ Would you to see what are the top 5 destinations and top 20 hotels in France to 
 In this project, I choose 7 Days but feel free to choose any number of days you want 🤗. 
 Try my app! You will be amazed 🤗😍
 
+Mail : fezzibasma@gmail.com
+
+Vidyard Link for Project : [#](https://share.vidyard.com/watch/94bPzkK3TMVCoDMAKGEYQr?)
+
+#### Complement for ID confirmation : 
+Vidyard Link for ID : [#](https://share.vidyard.com/watch/XVtNXHa5A9QWAjvc5uUdgB?)
+
 If you would like to change dates, go to I)data_extract then Step1_find_API... then line 49 where you can test with any date 🤠
 You can find below some of amazing results 🗺
 
