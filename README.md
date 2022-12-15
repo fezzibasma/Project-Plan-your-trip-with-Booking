@@ -1,10 +1,13 @@
 # Project Plan your trip with Booking
 
-Would you to see what are the top 5 destinations and top 20 hotels in France to go to in the next 7 Days. Try my app! You will be amazed 🤗😍
+Would you to see what are the top 5 destinations and top 20 hotels in France to go to in the next Days.
+In this project, I choose 7 Days but feel free to choose any number of days you want 🤗. Try my app! You will be amazed 🤗😍
+
+If you would like to change dates, go to I)Data_extract then Step1_find_API... then line 49 where you can test with any date 🤠
+You can find below some of amazing results 🗺
 
 
-
-## Project 🚧
+## What is the Project 🚧 ? 
 The marketing team needs help on a new project. After doing some user research, the team discovered that 70% of their users who are planning a trip would like to have more information about the destination they are going to.
 
 In addition, user research shows that people tend to be defiant about the information they are reading if they don't know the brand which produced the content.
@@ -25,6 +28,8 @@ Store all the information above in a data lake
 Extract, transform and load cleaned data from your datalake to a data warehouse
 
 ## Result 
+
+Here's the result for period between : 2022-09-29 and 2022-10-05
 
 ## Top 5 destinations 
 
