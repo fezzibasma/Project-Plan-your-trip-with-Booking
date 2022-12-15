@@ -1,7 +1,9 @@
+# Bloc n°1 : [ Construction et alimentation d'une infrastructure de gestion de donnée 📁🔍 ] Mandatory for JedhaBootcamp certification
 # Project Plan your trip with Booking
 
 Would you to see what are the top 5 destinations and top 20 hotels in France to go to in the next Days.
-In this project, I choose 7 Days but feel free to choose any number of days you want 🤗. Try my app! You will be amazed 🤗😍
+In this project, I choose 7 Days but feel free to choose any number of days you want 🤗. 
+Try my app! You will be amazed 🤗😍
 
 If you would like to change dates, go to I)data_extract then Step1_find_API... then line 49 where you can test with any date 🤠
 You can find below some of amazing results 🗺
