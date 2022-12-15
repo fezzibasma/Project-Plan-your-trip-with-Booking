@@ -9,9 +9,9 @@ Mail : fezzibasma@gmail.com
 
 
 #### Project link : 
-Vidyard Link for Project : [#](https://share.vidyard.com/watch/94bPzkK3TMVCoDMAKGEYQr?)
+Vidyard Link for Project : [#](https://share.vidyard.com/watch/94bPzkK3TMVCoDMAKGEYQr?) (09:08)
 #### Complement for ID confirmation : 
-Vidyard Link for ID : [#](https://share.vidyard.com/watch/XVtNXHa5A9QWAjvc5uUdgB?)
+Vidyard Link for ID : [#](https://share.vidyard.com/watch/XVtNXHa5A9QWAjvc5uUdgB?) (00:25)
 
 
 
