@@ -15,10 +15,11 @@ Vidyard Link for ID : [#](https://share.vidyard.com/watch/XVtNXHa5A9QWAjvc5uUdgB
 
 
 
-## NB : 
+#### Instructions to change dates : 
 If you would like to change dates, go to I)data_extract then Step1_find_API... then line 49 where you can test with any date 🤠
 You can find below some of amazing results 🗺
 
+### Let's first talk about the project to help you understand this app 📁
 #### What is the Project 🚧 ? 
 The marketing team needs help on a new project. After doing some user research, the team discovered that 70% of their users who are planning a trip would like to have more information about the destination they are going to.
 
